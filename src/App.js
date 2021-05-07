@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Then Come Learn MediaJams
+          More changes
         </a>
       </header>
     </div>
