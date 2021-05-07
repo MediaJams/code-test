@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          More changes
+          More changes Here is a bit more
         </a>
       </header>
     </div>
